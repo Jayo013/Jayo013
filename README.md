@@ -18,6 +18,8 @@
 - 🔭 I’m currently working on **SkillDev**
   
 - 🌱 I’m currently learning **Next.js, AWS, and DevOps tools**
+
+- 🧑‍🎓 I’m an Undergraduate at **University Of Ruhuna**
   
 - 📝 I regularly write articles on **[Medium](https://medium.com/@pramudithakudagamage13/docker-containers-the-ultimate-guide-for-beginners-abc05f3a1301)**
   
