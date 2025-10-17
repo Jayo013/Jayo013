@@ -1,4 +1,4 @@
-<!-- Optional Banner (replace the src with your own image link if you have one) -->
+
 <img alt="Header Banner" width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 
@@ -44,7 +44,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <!-- Update handles if needed -->
+
   <a href="https://linkedin.com/in/jayoda-pramuditha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Jayoda%20Pramuditha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://stackoverflow.com/users/31219949" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-Profile-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/></a>
   <a href="https://fb.com/jayoda.pramuditha" target="_blank"><img src="https://img.shields.io/badge/Facebook-Jayoda%20Pramuditha-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
@@ -60,14 +60,14 @@
 
 <p align="center">
  
-  <!-- Add/remove icons here -->
+
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nodejs,express,nestjs,java,python,php,mysql,postgres,mongodb,aws,gcp,azure,docker,kubernetes,git,github,linux,figma,flutter,dart,bootstrap,tailwind,c,cs,postman,vscode" alt="Skills" />
   
 </p>
 
 ---
-
-<h3 align="center">My Statistics:</h3>
+<h3 align="center" &title_color=00E5FF>My Statistics:</h3>
+<h3 align="center" &color=00E5FF>My Statistics:</h3>
 <p align="center">
 <table align="center">
 <tr border="none">
@@ -91,14 +91,12 @@
 
 ### 🧩 Fun Animations
 
-<!-- Typing SVG (customize text & roles) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+Engineer;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
 
  </div>
 </p>
 
-<!-- Snake animation (requires GitHub Action setup; instructions below) -->
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
