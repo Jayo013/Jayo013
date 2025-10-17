@@ -51,7 +51,7 @@
   <a href="https://instagram.com/ja_yo_da0513" target="_blank"><img src="https://img.shields.io/badge/Instagram-ja__yo__da0513-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://medium.com/@pramudithakudagamage13" target="_blank"><img src="https://img.shields.io/badge/Medium-Jayoda%20Pramuditha-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://www.hackerrank.com/jayodapramuditha" target="_blank"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-  <a href="https://leetcode.com/jayoda_pramuditha" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Jayoda%20Pramuditha-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://leetcode.com/Jayo513" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Jayoda%20Pramuditha-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 </p>
 
 ---
