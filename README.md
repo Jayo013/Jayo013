@@ -85,6 +85,8 @@
 </tr>
 </table>
 
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayo13&theme=react-dark&bg_color=0D1117&hide_border=true&line=00E5FF&color=00E5FF" alt="Activity Graph"/>
+
 ---
 
 ### 🧩 Fun Animations
@@ -93,8 +95,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+Engineer;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayo13&theme=react-dark&bg_color=0D1117&hide_border=true&line=00E5FF&color=00E5FF" alt="Activity Graph"/>
-</div>
+ </div>
 </p>
 
 <!-- Snake animation (requires GitHub Action setup; instructions below) -->
