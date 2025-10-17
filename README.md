@@ -87,7 +87,7 @@
 
 ---
 
-### 🧩 Fun Animations (Optional)
+### 🧩 Fun Animations
 
 <!-- Typing SVG (customize text & roles) -->
 <p align="center">
