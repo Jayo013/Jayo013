@@ -66,7 +66,7 @@
 </p>
 
 ---
-<h3 align="center" &title_color=00E5FF>My Statistics:</h3>
+
 <h3 align="center" &color=00E5FF>My Statistics:</h3>
 <p align="center">
 <table align="center">
