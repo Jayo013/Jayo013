@@ -23,7 +23,7 @@
   
 - 📝 I regularly write articles on **[Medium](https://medium.com/@pramudithakudagamage13/docker-containers-the-ultimate-guide-for-beginners-abc05f3a1301)**
   
-- 💬 Ask me about **Java**
+- 💬 Ask me about: **Java**
   
 - 📫 Reach me at **[pramudithakudagamage13@gmail.com](mailto:pramudithakudagamage13@gmail.com)**
   
