@@ -85,7 +85,7 @@
 </tr>
 </table>
 
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayo13&theme=react-dark&bg_color=0D1117&hide_border=true&line=00E5FF&color=00E5FF" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayo013&theme=react-dark&bg_color=0D1117&hide_border=true&line=00E5FF&color=00E5FF" alt="Activity Graph"/>
 
 ---
 
