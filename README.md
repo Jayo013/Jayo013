@@ -21,7 +21,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **University Of Ruhuna**
   
-- 📝 I regularly write articles on **[Medium](https://medium.com/@pramudithakudagamage13/docker-containers-the-ultimate-guide-for-beginners-abc05f3a1301)**
+- 📝 I regularly write articles on **[Medium](https://medium.com/@pramudithakudagamage13?source=post_page---byline--abc05f3a1301---------------------------------------)**
   
 - 💬 Ask me about: **Java**
   
